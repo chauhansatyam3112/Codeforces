@@ -1,0 +1,1 @@
+{"name":"Local: diceTower","url":"c:\\CF\\.vscode\\practice.cpp\\diceTower.cpp","tests":[{"id":1674031145189,"input":"4\n29 34 19 38\n","output":"YES\nYES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CF\\.vscode\\practice.cpp\\diceTower.cpp","group":"local","local":true}
